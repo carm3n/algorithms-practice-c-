@@ -1,0 +1,30 @@
+"C:\Program Files\JetBrains\CLion 2023.1.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\user\My Drive\TECH-IT-UP SRL\Documentele firmei\BS Computer Science @London\Studies\Level 5\Algorithms 2\coding\Exercise\Exercise" -B "C:\Users\user\My Drive\TECH-IT-UP SRL\Documentele firmei\BS Computer Science @London\Studies\Level 5\Algorithms 2\coding\Exercise\Exercise\cmake-build-debug"
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+CMake Warning in C:/Users/user/My Drive/TECH-IT-UP SRL/Documentele firmei/BS Computer Science @London/Studies/Level 5/Algorithms 2/coding/Exercise/Exercise/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dzku5z/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/user/My Drive/TECH-IT-UP SRL/Documentele firmei/BS Computer Science @London/Studies/Level 5/Algorithms 2/coding/Exercise/Exercise/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-dzku5z/CMakeFiles/cmTC_dde2f.dir/
+
+  has 225 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCXXCompilerABI.cpp.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2023.1.2/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/user/My Drive/TECH-IT-UP SRL/Documentele firmei/BS Computer Science @London/Studies/Level 5/Algorithms 2/coding/Exercise/Exercise/cmake-build-debug
